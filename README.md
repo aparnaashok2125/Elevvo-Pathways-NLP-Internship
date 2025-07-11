@@ -1,9 +1,8 @@
-# Elevvo-Pathways-NLP-Internship
-# 🧠 Natural Language Processing Tasks – Elevvo Pathways Internship
+# Natural Language Processing Tasks – Elevvo Pathways Internship
 
 Welcome to the **Natural Language Processing (NLP) Projects Repository** created as part of my internship at **Elevvo Pathways**.
 
-## 🌟 Internship Overview
+## Internship Overview
 
 As part of the **Elevvo Internship Program**, I completed a series of NLP-focused projects that demonstrate foundational to intermediate-level natural language processing techniques. Each task involved working with real-world datasets, applying essential preprocessing, implementing machine learning models, and evaluating results using standard metrics.
 
@@ -88,23 +87,3 @@ This repository contains **4 NLP tasks** organized across two levels — coverin
   - Compared results using two different SpaCy models
 
 ---
-
-## Installation & Usage
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/aparnaashok2125/nlp-elevvo-tasks.git
-cd nlp-elevvo-tasks
-2. Install the dependencies:
-pip install -r requirements.txt
-
-
-Author
-Aparna Ashok
-Master’s in Computer Applications, Amrita Vishwa Vidyapeetham
-Passionate about NLP, Deep Learning, and Applied AI
-LinkedIn | GitHub
-
-📃 License
-This repository is created solely for educational and portfolio purposes under the Elevvo Internship Program.
